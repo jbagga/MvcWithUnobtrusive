@@ -23,3 +23,4 @@ c:\users\malhayek\documents\visual studio 2013\Projects\MvcWithUnobtrusive\MvcWi
 c:\users\malhayek\documents\visual studio 2013\Projects\MvcWithUnobtrusive\MvcWithUnobtrusive\bin\Newtonsoft.Json.xml
 c:\users\malhayek\documents\visual studio 2013\Projects\MvcWithUnobtrusive\MvcWithUnobtrusive\obj\Debug\MvcWithUnobtrusive.dll
 c:\users\malhayek\documents\visual studio 2013\Projects\MvcWithUnobtrusive\MvcWithUnobtrusive\obj\Debug\MvcWithUnobtrusive.pdb
+c:\users\malhayek\documents\visual studio 2013\Projects\MvcWithUnobtrusive\MvcWithUnobtrusive\obj\Debug\MvcWithUnobtrusive.csprojResolveAssemblyReference.cache
